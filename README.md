@@ -1,16 +1,16 @@
-## Hi there 👋
+# Avirup Roy's Portfolio
 
-<!--
-**aviruproyneal/AvirupRoyNeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal porfolio and blog website.
 
-Here are some ideas to get you started:
+## Features
+- **About Me**: Information on who I am and my background.
+- **Projects**: Showcasing my videos and music creations.
+- **Blog**: My latest blog posts on productivity and self-improvement.
+- **Contact** - A simple way to reach me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Used
+- HTML
+- CSS
+
+## How to View the Site
+You can visit my live website here: [Visit The Site](https://aviruproyneal.github.io)
